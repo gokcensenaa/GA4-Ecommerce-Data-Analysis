@@ -24,7 +24,7 @@ The analysis is based on the Google Analytics 4 (GA4) public sample dataset.
 1. `01_ga4_event_data.sql` – GA4 event data analysis.
 2. `02_ecommerce_conversion_funnel.sql` – E-commerce conversion funnel analysis.
 3. `03_ga4_event_data_preparation.sql` – GA4 event data preparation.
-4. `04_...sql` – Additional analysis.
+4. 04_user_engagement_purchase_correlation.sql – Analysis of the relationship between user engagement and purchases.
 
 ## Dataset
 
